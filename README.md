@@ -2,6 +2,8 @@
 
 Simple web-based BMI calculator built as a small personal project and part of my analytics portfolio.
 
+![Screenshot](https://github.com/pavddOpe/bmi-calculator/blob/main/pictures/main_look.jpg)
+
 ### What it does
 Enter your name (optional), weight in kilograms (kg) and height in meters (m) → get your BMI value and weight category (Underweight / Normal weight / Overweight / Obese / Severely obese / Morbidly obese).
 
